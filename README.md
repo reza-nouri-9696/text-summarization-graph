@@ -25,7 +25,7 @@ python -m nltk.downloader punkt stopwords
 
 ## Usage
 
-1. Clone this repository or download the script `text_summarization.py`.
+1. Clone this repository 
 2. Place your CSV file containing articles (`tennis_article.csv` in this example) in the same directory.
 3. Download the GloVe word embeddings file (`glove.6B.100d.txt`) and place it in the same directory.
 4. Run the script:
